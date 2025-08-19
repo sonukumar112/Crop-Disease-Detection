@@ -3,7 +3,7 @@
 This repository contains a deep learning-based solution for detecting crop diseases from images using transfer learning. The goal is to assist farmers in identifying crop diseases early, improving yields, and reducing economic losses. The project leverages the **ResNet50V2** architecture and the **PlantVillage dataset** for training and evaluation.
 
 ---
-
+ 
 ## 🌟 **Project Overview**
 - **Objective**: To classify 39 different crop disease categories using smartphone-captured images.
 - **Model**: Convolutional Neural Network (CNN) with transfer learning using **ResNet50V2**.
